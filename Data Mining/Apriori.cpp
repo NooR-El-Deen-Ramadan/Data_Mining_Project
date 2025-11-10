@@ -8,7 +8,3 @@ void Apriori::Calc_support(string itemSet) {
 void Apriori::Join_step(int level) {
 
 }
-
-void Apriori::Generate_FrequentItemsets()
-{
-}
